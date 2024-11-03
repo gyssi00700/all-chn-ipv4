@@ -12,10 +12,10 @@
 您可以通过以下链接直接访问最新的IP地址范围列表：
 
 - IPv4地址范围：
-  https://raw.githubusercontent.com/gyssi024/all-chn-ipv4/main/cn-ipv4-cidr.txt
+  https://raw.githubusercontent.com/gyssi00700/all-chn-ipv4/main/cn-ipv4-cidr.txt
 
 - IPv6地址范围：
-  https://raw.githubusercontent.com/gyssi024/all-chn-ipv4/main/cn-ipv6-cidr.txt
+  https://raw.githubusercontent.com/gyssi00700/all-chn-ipv4/main/cn-ipv6-cidr.txt
 
 ## 更新频率
 
